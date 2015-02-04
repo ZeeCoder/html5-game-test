@@ -1,0 +1,10 @@
+$amp: ".b-canvas-container";
+
+#{$amp} {
+    position: fixed !important;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    // width: auto !important;
+    // height: auto !important;
+}
